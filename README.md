@@ -28,6 +28,10 @@ If an incorrect password is entered, the system displays a message indicating th
 - Enter the correct password on the keypad to activate the motor and open the garage door.
 - Press the "*" key to reset the password.
 - Observe the LCD display for feedback on the system's status.
+## Circuit Diagram 
+
+## Simulation 
+
 
 ## Credits
 
