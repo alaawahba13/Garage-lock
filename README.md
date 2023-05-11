@@ -33,6 +33,10 @@ If an incorrect password is entered, the system displays a message indicating th
 ## Simulation 
 
 
+https://github.com/alaawahba13/Garage-lock/assets/101985923/d1c0aabe-279e-43df-affd-403580056ab8
+
+
+
 ## Credits
 
 This code was developed by Alaa Wahba. Feel free to use and modify the code for your own purposes.
