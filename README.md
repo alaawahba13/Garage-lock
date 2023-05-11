@@ -12,6 +12,8 @@ This code implements a garage security system that uses a password-protected key
 ## Software Requirements
 
 - mikroC IDE
+- Proteus
+- Fritzing
 
 ## Implementation
 
@@ -29,6 +31,4 @@ If an incorrect password is entered, the system displays a message indicating th
 
 ## Credits
 
-This code was developed by 
-
-Feel free to use and modify the code for your own purposes.
+This code was developed by Alaa Wahba. Feel free to use and modify the code for your own purposes.
