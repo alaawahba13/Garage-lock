@@ -42,6 +42,15 @@ https://github.com/alaawahba13/Garage-lock/assets/101985923/ca4aafa2-d9e1-497d-a
 
 
 
-## Credits
+## Authors
 
-This code was developed by Alaa Wahba. Feel free to use and modify the code for your own purposes.
+This code was developed by 
+- [@Alaa Wahba](https://github.com/alaawahba13)
+- [@Ahmed Atef](https://github.com/AhmedAtef283)
+- [@Mohamed Abdullhaleam](https://github.com/Mohamedabdullhaleam)
+- [@Fareda Elsayed]( https://github.com/FaredaElsayed)
+- [@Gehad Alaa ](https://github.com/Gehad799)
+- [@Roaa Gawish ](https://github.com/roaagawish)
+- [@Mohamed Khodary](https://github.com/moekhodry11)
+
+Feel free to use and modify the code for your own purposes.
