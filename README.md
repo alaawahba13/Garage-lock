@@ -53,8 +53,8 @@ This code was developed by
 - [@Roaa Gawish ](https://github.com/roaagawish)
 - [@Mohamed Khodary](https://github.com/moekhodry11)
 - Mohamed Abdelzaher 
-- Islam Morgan
-- Hagar Tarek
+- [@Hagar Tarek](https://github.com/Hager706)
+- [@Islam Morgan](https://github.com/retrogradex)
 - Kamilia Ahmed 
 
 Feel free to use and modify the code for your own purposes.
