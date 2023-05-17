@@ -8,6 +8,8 @@ This code implements a garage security system that uses a password-protected key
 - Keypad module
 - LCD module
 - Motor
+- Relay Module
+- 9V battery 
 
 ## Software Requirements
 
@@ -30,10 +32,13 @@ If an incorrect password is entered, the system displays a message indicating th
 - Observe the LCD display for feedback on the system's status.
 ## Circuit Diagram 
 
+![photo_2023-05-15_20-47-07](https://github.com/alaawahba13/Garage-lock/assets/101985923/6c8bbfe5-74c2-4eea-ac70-2ff0dcfbb766)
+
+
 ## Simulation 
 
 
-https://github.com/alaawahba13/Garage-lock/assets/101985923/d1c0aabe-279e-43df-affd-403580056ab8
+https://github.com/alaawahba13/Garage-lock/assets/101985923/ca4aafa2-d9e1-497d-a083-309d5cdf9e14
 
 
 
